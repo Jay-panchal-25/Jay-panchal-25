@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Inventory Management System](https://inventory-management-systems.vercel.app/)
+- 🔭 I’m currently working on The entrepreneurship Network
 
 - 📫 How to reach me **Jaypanchal06334@gmail.com**
 
