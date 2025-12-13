@@ -54,8 +54,6 @@ Focused on writing maintainable code and delivering practical, real-world soluti
 
 ### 📫 Contact
 - 📧 Email: **jaypanchal06334@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/jay-panchal
-- 📷 Instagram: https://instagram.com/_jay_panchal_007
 
 ---
 
