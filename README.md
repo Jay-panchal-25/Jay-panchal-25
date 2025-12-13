@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay-panchal-25</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-
-
-- 🔭 I’m currently working on The entrepreneurship Network
+<h3 align="center">A passionate Software Developer from India</h3>
 
 - 📫 How to reach me **Jaypanchal06334@gmail.com**
 
