@@ -73,14 +73,7 @@ Working with joins, subqueries, group-by aggregations, and using SQL alongside P
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayPanchal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayPanchal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" height="160"/>
-</p>
-
----
 
 <p align="center">
   <i>"I value clarity, real skills, and continuous improvement over buzzwords."</i>
