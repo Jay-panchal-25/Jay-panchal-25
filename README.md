@@ -64,20 +64,6 @@ Working with joins, subqueries, group-by aggregations, and using SQL alongside P
 
 ---
 
-## 📌 Featured Projects
-
-**Inventory Management System**  
-Role-based system with authentication, item management, and admin workflows.
-
-**FitVerse** *(Team Project)*  
-Gamified fitness platform with activity tracking, reward logic, and interactive UI dashboards.
-
-**Portfolio Website**  
-Custom-designed personal portfolio showcasing projects and case studies.
-
-👉 Explore my repositories below for source code and live deployments.
-
----
 
 ## 🌱 Currently Learning
 
