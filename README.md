@@ -1,7 +1,7 @@
 <h1 align="center">Jay Panchal</h1>
 
 <p align="center">
-  <b>AI & Machine Learning Engineer | Data-Driven Problem Solver</b>
+  <b>AI & Machine Learning enthusiasm | Data-Driven Problem Solver</b>
 </p>
 
 <p align="center">
@@ -10,16 +10,14 @@
 </p>
 
 <p align="center">
-  <a href="mailto:jaypanchal06334@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jaypanchal06334%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+  📫 <a href="mailto:jaypanchal06334@gmail.com">jaypanchal06334@gmail.com</a>
 </p>
 
 ---
 
 ## About Me
 
-I work at the intersection of machine learning, data science, and software engineering.
+I work at the intersection of ai, machine learning and data science.
 
 My approach is simple:
 - Understand the problem deeply  
