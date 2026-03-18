@@ -1,11 +1,11 @@
 <h1 align="center">Jay Panchal</h1>
 
 <p align="center">
-  <b>AI & Machine Learning enthusiasm | Data-Driven Problem Solver</b>
+  <b>AI & Machine Learning Enthusiast | Data-Driven Problem Solver</b>
 </p>
 
 <p align="center">
-  I build practical machine learning systems that turn raw data into measurable outcomes.  
+  I build practical machine learning systems that turn raw data into measurable outcomes.<br/>
   Focused on model reliability, clean pipelines, and production-oriented thinking.
 </p>
 
@@ -15,11 +15,11 @@
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I work at the intersection of ai, machine learning and data science.
+I work at the intersection of AI, machine learning, and data science.
 
-My approach is simple:
+**My approach:**
 - Understand the problem deeply  
 - Build structured, reproducible pipelines  
 - Validate models properly  
@@ -29,26 +29,26 @@ I prioritize clarity, statistical reasoning, and implementation quality over buz
 
 ---
 
-## What I Work With
+## 🛠️ What I Work With
 
-### Languages
+### 💻 Languages
 - Python  
 - SQL  
 
-### Data & ML Ecosystem
+### 📊 Data & ML Ecosystem
 - Data preprocessing and transformation  
 - Model development and evaluation  
 - Feature engineering and pipeline design  
 - Exploratory data analysis & visualization  
 
-### Engineering & Tools
+### ⚙️ Engineering & Tools
 - Git & version control  
 - Clean, modular Python code  
 - Experiment tracking and structured workflows  
 
 ---
 
-## Core Focus
+## 🎯 Core Focus
 
 - Designing end-to-end machine learning workflows  
 - Improving model performance through systematic experimentation  
@@ -57,7 +57,7 @@ I prioritize clarity, statistical reasoning, and implementation quality over buz
 
 ---
 
-## Current Direction
+## 📈 Current Direction
 
 I am actively refining:
 - Production-ready ML pipelines  
