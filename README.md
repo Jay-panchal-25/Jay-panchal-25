@@ -1,71 +1,123 @@
-<h1 align="center">Jay Panchal</h1>
+# <h1 align="center">Jay Panchal</h1>
 
 <p align="center">
-  <b>AI & Machine Learning Enthusiast | Data-Driven Problem Solver</b>
+  <b>GenAI & AI/ML Engineer • Building Intelligent Systems with LLMs, Data, and Automation</b>
 </p>
 
 <p align="center">
-  I build practical machine learning systems that turn raw data into measurable outcomes.<br/>
-  Focused on model reliability, clean pipelines, and production-oriented thinking.
+  I build practical AI systems focused on real-world workflows — from conversational analytics and AI interview platforms to automated ML pipelines and LLM-powered applications.
 </p>
 
 <p align="center">
-  📫 <a href="mailto:jaypanchal06334@gmail.com">jaypanchal06334@gmail.com</a>
+  📍 Ahmedabad, Gujarat, India <br/>
+  📫 <a href="mailto:jaypanchal06334@gmail.com">jaypanchal06334@gmail.com</a> •
+  <a href="https://github.com/Jay-panchal-25">GitHub</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I work at the intersection of AI, machine learning, and data science.
+I focus on building applied AI systems that combine:
 
-**My approach:**
-- Understand the problem deeply  
-- Build structured, reproducible pipelines  
-- Validate models properly  
-- Focus on generalization, not just metrics  
+* Generative AI
+* Machine Learning
+* Data Engineering
+* Conversational Interfaces
 
-I prioritize clarity, statistical reasoning, and implementation quality over buzzwords.
+Most developers stop at prototypes.
+I care about turning ideas into structured, usable systems with clean workflows, measurable outputs, and scalable architecture.
 
----
+My work revolves around:
 
-## 🛠️ What I Work With
-
-### 💻 Languages
-- Python  
-- SQL  
-
-### 📊 Data & ML Ecosystem
-- Data preprocessing and transformation  
-- Model development and evaluation  
-- Feature engineering and pipeline design  
-- Exploratory data analysis & visualization  
-
-### ⚙️ Engineering & Tools
-- Git & version control  
-- Clean, modular Python code  
-- Experiment tracking and structured workflows  
+* LLM-powered applications
+* AI workflow orchestration
+* Conversational data systems
+* ML pipelines and automation
+* Intelligent evaluation systems
+* Real-world AI product engineering
 
 ---
 
-## 🎯 Core Focus
+## 🧠 Core Expertise
 
-- Designing end-to-end machine learning workflows  
-- Improving model performance through systematic experimentation  
-- Writing maintainable ML code ready for real-world deployment  
-- Strengthening fundamentals in deep learning and model interpretability  
+### 🤖 Generative AI & LLM Applications
+
+* LangChain workflows
+* Prompt engineering
+* Retrieval-oriented pipelines
+* Conversational AI systems
+* Natural language query systems
+
+### 📊 Machine Learning & Data Science
+
+* Data preprocessing & transformation
+* Feature engineering
+* Model training & evaluation
+* Exploratory data analysis
+* AutoML workflows
+* Prediction systems
+
+### ⚙️ Engineering & Development
+
+* Modular Python architecture
+* API & workflow integration
+* Git & version control
+* Structured experimentation
+* Data pipeline design
+* End-to-end AI application development
 
 ---
 
-## 📈 Current Direction
+## 🛠️ Tech Stack
 
-I am actively refining:
-- Production-ready ML pipelines  
-- Scalable data processing practices  
-- Applied deep learning systems  
+### Languages
+
+* Python
+* SQL
+
+### AI / ML Libraries
+
+* Scikit-learn
+* Pandas
+* NumPy
+* LangChain
+
+### Visualization
+
+* Matplotlib
+* Seaborn
+
+### Databases & Tools
+
+* MySQL
+* Git
+* GitHub
+* Google Colab
+
+### Frontend
+
+* React.js
+
+---
+
+## 📚 Currently Exploring
+
+* RAG architectures
+* AI agents & tool calling
+* Multi-agent workflows
+* Scalable GenAI systems
+* LLM evaluation techniques
+* Production-ready AI deployment
+
+---
+
+## 🎯 Current Goal
+
+Building AI systems that move beyond demos and actually solve operational problems.
 
 ---
 
 <p align="center">
-  <i>Building systems that work in practice — not just in notebooks.</i>
+  <i>Focused on building AI products that are useful, scalable, and production-oriented.</i>
 </p>
